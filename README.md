@@ -1,16 +1,18 @@
 # SDML - Structural Design supported by Machine Learning
 
 This project introduces a computer-aided design framework for the generation of non-standard structural forms in static equilibrium that takes advantage of the interaction between human and machine intelligence. The design framework relies on the implementation of a series of operations (generation, clustering, evaluation, selection) that allow to create multiple design options and to navigate in the design space according to objective and subjective criteria defined by the human designer. 
-Within the proposed framework, two main algorithms are used: Combinatorial Equilibrium Modeling (https://github.com/OleOhlbrock/CEM) for generating of structural forms in static equilibrium as design options and Self-Organizing Map (https://github.com/sevamoo/SOMPY) for clustering the generated design options. 
+Within the proposed framework, two main algorithms are used: 
+- Combinatorial Equilibrium Modeling (https://github.com/OleOhlbrock/CEM) for generating of structural forms in static equilibrium as design options;
+- Self-Organizing Map (https://github.com/sevamoo/SOMPY) for clustering the generated design options. 
 These algorithms are combined with the ability of human designers to evaluate non-quantifiable aspects of the design. The work presented here is a further development of a research project started in 2018 as a collaboration between the Chair of Digital Architectonics (Karla Saldana Ochoa, Vahid Moosavi) and the Chair of Structural Design (Pierluigi D'Acunto, Patrick Ole Ohlbrock) at ETH Zurich (https://github.com/sakarla/Beyond-typologies-beyond-optimization). The scripts and tools included in this repository were developed for the workshop "Structural Form-Finding with Machine Learning" at the Advances in Architectural Geometry (AAG) 2020 (https://www.aag2020.com/form-finding-machine-learning). 
 <br>
 <br>
 
 SDML is developed by:
--__Pierluigi D'Acunto__ [Technical University of Munich, Professorship of Structural Design](https://www.arc.ed.tum.de/sd/startseite/)
--__Patrick Ole Ohlbrock__ [ETH Zurich, Chair of Structural Design](https://schwartz.arch.ethz.ch/)
--__Karla Saldana Ochoa__ [ETH Zurich, Chair of Structural Design](https://schwartz.arch.ethz.ch/)
--__Vahid Moosavi__ SwissRe, Zurich
+- __Pierluigi D'Acunto__ [Technical University of Munich, Professorship of Structural Design](https://www.arc.ed.tum.de/sd/startseite/)
+- __Patrick Ole Ohlbrock__ [ETH Zurich, Chair of Structural Design](https://schwartz.arch.ethz.ch/)
+- __Karla Saldana Ochoa__ [University of Florida, School of Architecture](https://www.ai-share-lab.com/)
+- __Vahid Moosavi__ SwissRe, Zurich
 <br>
 
 If you use the scripts in SDML, please refer to the official GitHub repository: <br>
