@@ -7,7 +7,6 @@ Within the proposed framework, two main algorithms are used:
 - Combinatorial Equilibrium Modeling (https://github.com/OleOhlbrock/CEM) for generating structural forms in static equilibrium as design options;
 - Self-Organizing Map (https://github.com/sevamoo/SOMPY) for clustering the design options.
 <br>
-<br>
 These algorithms are combined with the ability of human designers to evaluate non-quantifiable aspects of the design. The work presented here is a further development of a research project started in 2018 as a collaboration between the Chair of Digital Architectonics (Karla Saldana Ochoa, Vahid Moosavi) and the Chair of Structural Design (Pierluigi D'Acunto, Patrick Ole Ohlbrock) at ETH Zurich (https://github.com/sakarla/Beyond-typologies-beyond-optimization). The scripts and tools included in this repository were developed for the workshop "Structural Form-Finding with Machine Learning" at the Advances in Architectural Geometry (AAG) 2020 (https://www.aag2020.com/form-finding-machine-learning). 
 <br>
 <br>
