@@ -32,7 +32,7 @@ To use SDML, please make sure that the Python distribution platform [Anaconda3](
 <br>
 <br>
 
-Publications related to the VGS project include:
+Publications related to the SDML project include:
 - __Karla Saldana Ochoa, Ohlbrock,Patrick Ole Ohlbrock, Pierluigi D′Acunto, Vahid Moosavi__: Beyond typologies, beyond optimization, International Journal of Architectural Computing, 9(3), 466–490, 2021
 - __Federico Bertagna, Pierluigi D'Acunto, Patrick Ole Ohlbrock, Vahid Moosavi__: Holistic Design Explorations of Build-ing Envelopes Supported by Machine Learning. Journal of Facade Design and Engineering, 9(1), 31-46, 2021
 - __Patrick Ole Ohlbrock, Pierluigi D′Acunto__: A Computer-aided Approach to Equilibrium Design based on Graphic Statics and Combinatorial Variations, Computer-Aided Design, Volume 121, 102802, 2020
