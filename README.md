@@ -18,7 +18,7 @@ SDML is developed by:
 - __Vahid Moosavi__ SwissRe, Zurich
 <br>
 
-If you use the scripts in SDML, please refer to the official GitHub repository: <br>
+If you use the scripts in SDML, please reference the official GitHub repository: <br>
 @Misc{sdml2021, <br>
 author = {D'Acunto, Pierluigi and Ohbrock, Patrick Ole and Saldana Ochoa, Karla and Moosavi, Vahid}, <br>
 title = {{SDML: Structural Design supported by Machine Learning}}, <br>
